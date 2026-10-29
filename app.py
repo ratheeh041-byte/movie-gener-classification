@@ -73,6 +73,20 @@ EXAMPLES = {
     "💕 Romance": "Two strangers fall in love before her wedding and must choose between love and family.",
     "🚀 Sci-Fi": "A crew of astronauts travels to a distant planet and discovers an alien spaceship.",
     "😂 Comedy": "Three friends go on a hilarious road trip and get into funny trouble everywhere they go.",
+    "🎭 Drama": "A family struggles with loss and betrayal as they try to rebuild their lives after a tragedy.",
+    "🧙 Fantasy": "A young wizard attends a magical school and must stop an evil sorcerer from taking over the world.",
+    "👻 Horror": "A group of friends stay in a haunted house and are terrorized by ghosts and demons.",
+    "🎨 Animation": "A young boy befriends a talking animal and goes on a magical adventure to save his village.",
+    "🎵 Musical": "A struggling singer gets a big break and must overcome obstacles to achieve her dreams.",
+    "🕵️ Thriller": "A spy must stop a terrorist plot while being hunted by his own agency.",
+    "📰 News": "A journalist investigates a political scandal and uncovers corruption at the highest levels.",
+    "🪖 War": "A soldier fights on the front lines of a brutal war and struggles to survive and protect his comrades.",
+    "📺 Reality-TV": "Contestants compete in a series of challenges to win a grand prize and fame.",
+    "🎤 Talk-Show": "A celebrity hosts a talk show and interviews famous guests about their lives and careers.",
+    "⏱️ Short": "A short film about a young girl who learns an important life lesson in just a few minutes.",
+    "🗺️ Adventure": "A group of explorers embark on a dangerous journey to find a lost treasure in a remote jungle.",
+    "⚽ Sport": "A young athlete trains hard to compete in a championship and overcome personal challenges.",
+    "📖 Biography": "The life story of a famous historical figure and their impact on.",
 }
 
 
