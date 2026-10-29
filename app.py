@@ -165,4 +165,4 @@ if st.button("🔮 Predict Genre", type="primary", use_container_width=True):
         st.bar_chart(result.set_index("Genre")["Confidence"])
 
 st.divider()
-st.caption("College project | Movie Genre Classification using Machine Learning")
+st.caption("College project | Movie Genre Classification using Machine Learning | MADE BY HARSH RATHEE ")
