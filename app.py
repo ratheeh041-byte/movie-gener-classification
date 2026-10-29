@@ -80,7 +80,7 @@ EXAMPLES = {
     "🎵 Musical": "A struggling singer gets a big break and must overcome obstacles to achieve her dreams.",
     "🕵️ Thriller": "A spy must stop a terrorist plot while being hunted by his own agency.",
     "📰 News": "A journalist investigates a political scandal and uncovers corruption at the highest levels.",
-    "🪖 War": "A soldier fights on the front lines of a brutal war and struggles to survive and protect his comrades.",
+    "📜 History": "A historical drama about the life of a famous leader and the events that shaped their legacy.",
 }
 
 
