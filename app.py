@@ -81,12 +81,6 @@ EXAMPLES = {
     "🕵️ Thriller": "A spy must stop a terrorist plot while being hunted by his own agency.",
     "📰 News": "A journalist investigates a political scandal and uncovers corruption at the highest levels.",
     "🪖 War": "A soldier fights on the front lines of a brutal war and struggles to survive and protect his comrades.",
-    "📺 Reality-TV": "Contestants compete in a series of challenges to win a grand prize and fame.",
-    "🎤 Talk-Show": "A celebrity hosts a talk show and interviews famous guests about their lives and careers.",
-    "⏱️ Short": "A short film about a young girl who learns an important life lesson in just a few minutes.",
-    "🗺️ Adventure": "A group of explorers embark on a dangerous journey to find a lost treasure in a remote jungle.",
-    "⚽ Sport": "A young athlete trains hard to compete in a championship and overcome personal challenges.",
-    "📖 Biography": "The life story of a famous historical figure and their impact on.",
 }
 
 
